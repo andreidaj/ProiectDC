@@ -1,5 +1,5 @@
 package benchmark;
-interface IBenchmark {
+public interface IBenchmark {
     void setUp();
     void run();
 }
